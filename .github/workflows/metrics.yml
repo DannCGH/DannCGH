@@ -19,6 +19,7 @@ jobs:
           template: classic
           base: header, activity, repositories, metadata
           base_hireable: yes
+          config_display: large
           config_timezone: America/New_York
           
           # Languages - Added quotes to threshold and increased timeout
