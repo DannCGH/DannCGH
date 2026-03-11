@@ -1,3 +1,3 @@
-## Hey, It's Dann 🍄
+## Hey, it's Dann! 🍄
 
 ![Metrics](/github-metrics.svg)
